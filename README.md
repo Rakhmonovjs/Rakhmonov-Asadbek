@@ -1,4 +1,6 @@
-
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Rakhmonov-Asadbek/Rakhmonov-Asadbek/main/name.svg" alt="Rakhmonov Asadbek" />
+</h1>
 
 <h2>About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rakhmonov-Asadbek/Rakhmonov-Asadbek"></h2>
 
