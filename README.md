@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/Rakhmonov-Asadbek/Rakhmonov-Asadbek/main/name.svg" alt="Rakhmonov Asadbek" />
 </h1>
 
+# Hello there 👋
+
+
 <h2>About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rakhmonov-Asadbek/Rakhmonov-Asadbek"></h2>
 
 <p align="justify">I am a Full Stack developer with 8 months of coding experience..</p>
