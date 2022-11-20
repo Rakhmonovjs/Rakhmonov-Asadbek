@@ -7,14 +7,14 @@
 
 <h2>About Me <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Rakhmonov-Asadbek/Rakhmonov-Asadbek"></h2>
 
-<p align="justify">I am a Full Stack developer with 8 months of coding experience..</p>
+<p align="justify">I am a Frontend developer with coding experience...</p>
 
-<p align="justify">I started taking programming classes in early 2022
-I am currently a student at Quasar Silicon Valley.</p>
+<p align="justify">I started coding in programming in early 2021
+I am currently an unemployed Frontend Developer.</p>
 
-<p align="justify">My goal in coding is to help others. I love creating things that other people can use to make their lives easier. I welcome criticism and use suggestions to improve the product. The wants and needs of the user base are always my priority, because without a supportive user base, a product has no real purpose.</p>
+<p align="justify">My goal in coding is to develop a meta-world. I enjoy creating various useful applications to make life easier for others. I accept criticism and it is useful to improve myself. The wants and needs of the software's user base are always my priority, because without a supportive user base, the product's usefulness is diminished.</p>
 
-<p align="justify">I understand Ruby, Javascript, partial C, HTML and CSS and can work with web applications or other browser-based environments..</p>
+<p align="justify">I understand Ruby(ruby on rails), Javascript, React.js, html and css partially C, and I can work comfortably with Github and VScode, different browsers...</p>
 
 ## My Skills
 
